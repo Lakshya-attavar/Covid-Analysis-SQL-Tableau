@@ -5,9 +5,9 @@ This project explores and visualises the covid-19 data from various countries ac
 
 <img width="991" alt="image-9" src="https://github.com/user-attachments/assets/214c0788-59d6-4ed7-b2f3-db3e7780e7a0">
 
-The data exploration SQL script can be found here [link].
+The data exploration SQL script can be found here [[link]](https://github.com/Lakshya-attavar/Covid-Analysis-SQL-Tableau/blob/main/covid_analysis.sql).
 
-An interactive Tableau dashboard used to visualise the spread and Impact of covid can be found here [link].
+A Tableau dashboard used to visualise the spread and Impact of covid can be found here [[link]](https://github.com/Lakshya-attavar/Covid-Analysis-SQL-Tableau/blob/main/Covid_Analysis.twb).
 
 ### Data Structure
 
